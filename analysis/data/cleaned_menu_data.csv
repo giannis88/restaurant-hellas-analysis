@@ -1,0 +1,304 @@
+Item_Name,Description,Price,Allergens,Additives,Category,Position,Image,Group,Extra1,Extra2,Tax_Rate
+Bohnensuppe,griechische Bohnensuppe nach alter Tradition,,,,Suppen,1.0,,,,,ermäßigt
+Tomatensuppe,,,,,Suppen,2.0,,,,,ermäßigt
+Fleischnudelsuppe,,,,,Suppen,3.0,,,,,ermäßigt
+Gemischter Salat,mit Hausdressing,,,,Salate,7.0,,,,,ermäßigt
+Tomaten Salat,"mit Tomaten, Gurken, Zwiebeln und Paprika",,,,Salate,8.0,,,,,ermäßigt
+Bohnensalat,,,,,Salate,9.0,,,,,ermäßigt
+Bauernsalat,"mit Weißkraut, Rotkraut, grünem Salat, Oliven, Peperoni, Schafskäse und Hausdressing",,,,Salate,10.0,,,,,ermäßigt
+Hellas Salat,"mit grünem Salat, Gurken, Tomaten, Zwiebeln, Oliven, Paprika, Peperoni, Schafskäse und Olivenöl",,,,Salate,11.0,,,,,ermäßigt
+Bunter Salat,"mit Weißkraut, Rotkraut, grünem Salat, Gurken, Tomaten, Zwiebeln, Paprika, Oliven, Peperoni, Schafskäse, Bohnensalat und Olivenöl",,,,Salate,12.0,,,,,ermäßigt
+Thunfischsalat,"mit Eisberg, Thunfisch, Tomaten, Gurken, Oliven, Paprika und Olivenöl",,,,Salate,13.0,,,,,ermäßigt
+Tarama Salat,pürierte Fischrogen mit Kartoffelcreme,,,,Kalte Vorspeisen,16.0,,,,,ermäßigt
+Zaziki,Joghurt-Spezialität mit Gurken und Knoblauch,,,,Kalte Vorspeisen,17.0,,,,,ermäßigt
+Chtipiti,pikante Schafskäse Creme,,,,Kalte Vorspeisen,18.0,,,,,ermäßigt
+Oktopus Salat,mit einer Knoblauch-Zitronen-Olivenölsauce,,,,Kalte Vorspeisen,19.0,,,,,ermäßigt
+Kalamares Salat,mit einer Knoblauch-Zitronen-Olivenölsauce,,,,Kalte Vorspeisen,20.0,,,,,ermäßigt
+Oliven und Peperoni,,,,,Kalte Vorspeisen,21.0,,,,,ermäßigt
+Feta,griechischer Schafskäse,,,,Kalte Vorspeisen,22.0,,,,,ermäßigt
+Skordalia,Kartoffel-Knoblauch-Creme,,,,Kalte Vorspeisen,23.0,,,,,ermäßigt
+Gemischte Platte,von Allem etwas,,,,Kalte Vorspeisen,24.0,,,,,ermäßigt
+Saganaki,"Schafskäse im Teigmantel, aus der Pfanne",,,,Warme Vorspeisen,28.0,,,,,ermäßigt
+Feta Fournou,"Schafskäse natur, aus dem Ofen",,,,Warme Vorspeisen,29.0,,,,,ermäßigt
+Ntolmadakia,mit Hack und Reis gefüllte Weinblätter,,,,Warme Vorspeisen,30.0,,,,,ermäßigt
+Ntolmadakia (vegetarisch),mit Reis gefüllte Weinblätter,,,,Warme Vorspeisen,31.0,,,,,ermäßigt
+Gegrillte Spitzpaprika,mit Zaziki,,,,Warme Vorspeisen,32.0,,,,,ermäßigt
+Gegrillter Oktopus,,,,,Warme Vorspeisen,33.0,,,,,ermäßigt
+Garnelen (ohne Schale),"aus der Pfanne, mit Gemüse und Knoblauch",,,,Warme Vorspeisen,34.0,,,,,ermäßigt
+Champignons Omelette,mit gemischtem Salat und Brot,,,,Omelette,49.0,,,,,ermäßigt
+Hellios Platte,"Gyros, 2x Putensteak, 2x Zuzukia und 2x Souvlaki, Bauernsalat, grüne Bohnen, Kartoffeln, Reis, Zaziki",,,,Platten,80.0,,,,,ermäßigt
+Lammhaxe mit Auberginen,mit gemischtem Salat und Brot,,,,Lammhaxe,112.0,,,,,ermäßigt
+Rindfleisch mit Kritharaki,mit gemischtem Salat und Brot,,,,Rindfleisch,116.0,,,,,ermäßigt
+Rindfleisch mit Spaghetti,mit gemischtem Salat und Brot,,,,Rindfleisch,117.0,,,,,ermäßigt
+Rindfleisch mit dicken Bohnen,mit gemischtem Salat und Brot,,,,Rindfleisch,118.0,,,,,ermäßigt
+Rindfleisch mit grünen Bohnen,mit gemischtem Salat und Brot,,,,Rindfleisch,119.0,,,,,ermäßigt
+Rindfleisch mit Stifado,mit gemischtem Salat und Brot,,,,Rindfleisch,120.0,,,,,ermäßigt
+Rindfleisch mit Kartoffeln, mit gemischtem Salat und Brot,,,,Rindfleisch,121.0,,,,,ermäßigt
+Rindfleisch mit Auberginen, mit gemischtem Salat und Brot,,,,Rindfleisch,122.0,,,,,ermäßigt
+Rindfleisch mit Bamies, mit gemischtem Salat und Brot,,,,Rindfleisch,123.0,,,,,ermäßigt
+Pfeffersauce,,,,,Saucen,140.0,,,,,ermäßigt
+Rahm-Champignon-Sauce,,,,,Saucen,141.0,,,,,ermäßigt
+Tomaten-Knoblauch-Sauce,,,,,Saucen,142.0,,,,,ermäßigt
+Zitronen-Knoblauch-Sauce,,,,,Saucen,143.0,,,,,ermäßigt
+Metaxasauce,,,,,Saucen,144.0,,,,,ermäßigt
+Halvas,,,,,Dessert,10001.0,,,,,ermäßigt
+Joghurt Honig Nüsse,,,,,Dessert,10002.0,,,,,ermäßigt
+Joghurt Honig Früchte,,,,,Dessert,10003.0,,,,,ermäßigt
+Galaktobureko,,,,,Dessert,10004.0,,,,,ermäßigt
+Reis,,,,,Beilagen,126.0,,,,,Standard
+Pommes,,,,,Beilagen,127.0,,,,,Standard
+Dicke Bohnen,,,,,Beilagen,128.0,,,,,Standard
+Grüne Bohnen,,,,,Beilagen,129.0,,,,,Standard
+Auberginen,,,,,Beilagen,130.0,,,,,Standard
+Bamies (Okraschoten),,,,,Beilagen,131.0,,,,,Standard
+Kartoffeln,,,,,Beilagen,132.0,,,,,Standard
+Kartoffelscheiben,,,,,Beilagen,133.0,,,,,Standard
+Broccoli in Butter,,,,,Beilagen,134.0,,,,,Standard
+Kritharaki Beilage,,,,,Beilagen,138.0,,,,,Standard
+Hellas Platte,"Gyros, 2 Lammkoteletts, 2 Zuzuki und 2 Schweinesteaks, Bauernsalat, grüne Bohnen, Kartoffeln, Reis, Zaziki",,,,Platten,81.0,,,,,ermäßigt
+Olympia Platte,"Gyros, 2 Lammkoteletts, 2 Zuzuki und 2 Suvlaki ,Bauernsalat, grüne Bohnen, Kartoffeln, Reis, Zaziki",,,,Platten,82.0,,,,,ermäßigt
+10 Lammkoteletts,"10 Lammkoteletts,  Bauernsalat, grüne Bohnen, Kartoffeln, Reis, Zaziki",,,,Platten,83.0,,,,,ermäßigt
+gebratene Zwiebeln,,,,,Beilagen,139.0,,,,,Standard
+Gyros,"mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gegrilltes vom Schwein,52.0,,,,,ermäßigt
+Kritharaki mit Hack,"griechische Nudeln mit Tomatensauce, Hack, Schafskäse, gemischtem Salat und Brot",,,,Nudeln,39.0,,,,,ermäßigt
+Kritharaki mit Tomatensauce,"griechische Nudeln mit Tomatensauce, Schafskäse, gemischtem Salat und Brot",,,,Nudeln,38.0,,,,,ermäßigt
+Spaghetti mit Tomatensauce,"Spaghetti mit Tomatensauce, Schafskäse, gemischtem Salat und Brot ",,,,Nudeln,40.0,,,,,ermäßigt
+Spaghetti mit Hack,"Spaghetti mit Hack, Tomatensauce und Schafskäse, gemischter Salat und Brot",,,,Nudeln,41.0,,,,,ermäßigt
+Schafskäse Omelette,mit gemischtem Salat und Brot,,,,Omelette,47.0,,,,,ermäßigt
+Tomaten Omelette,mit gemischtem Salat und Brot,,,,Omelette,48.0,,,,,ermäßigt
+Souvlaki,"mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gegrilltes vom Schwein,53.0,,,,,ermäßigt
+Zuzuki,"mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gegrilltes vom Schwein,54.0,,,,,ermäßigt
+Bifteki,"mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gegrilltes vom Schwein,55.0,,,,,ermäßigt
+Steak,"mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gegrilltes vom Schwein,56.0,,,,,ermäßigt
+Schnitzel,"mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gegrilltes vom Schwein,57.0,,,,,ermäßigt
+Leber,"mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gegrilltes vom Schwein,58.0,,,,,ermäßigt
+Schweinefilet Madailions,"mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gegrilltes vom Schwein,59.0,,,,,ermäßigt
+Lammkoteletts,"Mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Grillspezialitäten,63.0,,,,,ermäßigt
+Lammfilet,"mit grünen Bohnen, Kartoffeln, Tzatziki, gemischtem Salat und Brot",,,,Grillspezialitäten,64.0,,,,,ermäßigt
+Rumpsteak,"mit grünen Bohnen, Kartoffeln, gemischtem Salat und Brot",,,,Grillspezialitäten,65.0,,,,,ermäßigt
+Rumpsteak mit Pfeffersauce,"mit Pommes, gemischtem Salat und Brot",,,,Grillspezialitäten,66.0,,,,,ermäßigt
+Putensteak,"Mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Grillspezialitäten,67.0,,,,,ermäßigt
+Korfu Teller,"Gyros und Suvlaki mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,71.0,,,,,ermäßigt
+Samos Teller,"Gyros und Bifteki mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,72.0,,,,,ermäßigt
+Athen Teller,"Gyros, Suvlaki und Zuzuki mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,73.0,,,,,ermäßigt
+Meteora Teller,"Gyros und 2 Lammkoteletts mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,74.0,,,,,ermäßigt
+Santorini Teller,"Gyros und Schweinesteak mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,75.0,,,,,ermäßigt
+Akropolis Teller,"Suvlaki, Schnitzel, Leber und Zuzuki mit  Reis Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,76.0,,,,,ermäßigt
+Kreta Teller,"Gyros, Suvlaki und Leber mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,77.0,,,,,ermäßigt
+Sparta Teller,"Gyros und Leber mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,78.0,,,,,ermäßigt
+Lesvos Teller,"Gyros und Putensteak mit Reis, Tzatziki, gemischtem Salat und Brot",,,,Gemischte Grillteller,79.0,,,,,ermäßigt
+Kalamares,"Kalamares mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,87.0,,,,,ermäßigt
+Garides,"Garnelen mit Schale mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,88.0,,,,,ermäßigt
+Schollenfilet,"Schollenfilet mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,89.0,,,,,ermäßigt
+Rotbarbenfilet,"Rotbarbenfilet mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,90.0,,,,,ermäßigt
+Garnelen ohne Schale,"Garnelen ohne Schale in pikanter Tomaten-Knoblauch-Sauce mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauchsauce und Brot",,,,Fisch,93.0,,,,,ermäßigt
+Musaka,"Auberginen Auflauf mit Hack, Kartoffeln und Bechamel Sauce, gemischtem Salat und Brot",,,,Gerichte aus dem Backofen,97.0,,,,,ermäßigt
+Pastitio,"Nudelauflauf mit Hack und Bechamel Sauce, gemischtem Salat und Brot",,,,Gerichte aus dem Backofen,98.0,,,,,ermäßigt
+Gyros in Metaxasauce,"mit Käse überbacken, Reis,  gemischtem Salat und Brot",,,,Gerichte aus dem Backofen,99.0,,,,,ermäßigt
+Schweinefilet-Medaillons in Metaxasauce,"mit Käse überbacken , Reis gemischtem Salat und Brot",,,,Gerichte aus dem Backofen,100.0,,,,,ermäßigt
+Putensteak in Metaxasauce,"mit Käse überbacken, Reis gemischtem Salat und Brot",,,,Gerichte aus dem Backofen,101.0,,,,,ermäßigt
+Gemüse Auflauf,"Kartoffeln, dicke Bohnen und Broccoli, gemischtem Salat und Brot",,,,Vegetarisch,102.0,,,,,ermäßigt
+Reis Vegetarisch,"mit Gemüse, Champignons und Feta, gemischtem Salat und Brot",,,,Vegetarisch,103.0,,,,,ermäßigt
+Gemüse Pfanne,"mit Paprika, Champignons, Zwiebeln, Aubergine, grüne Bohnen, Tomatensauce und Feta, gemischtem Salat und Brot",,,,Vegetarisch,104.0,,,,,ermäßigt
+Kritharaki Vegetarisch,"mit  Paprika, grüne Bohnen ,  Erbsen, Lauch , Champignons und Feta gemischtem Salat und Brot",,,,Vegetarisch,105.0,,,,,ermäßigt
+Lachsfilet,"mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,200.0,,,,,ermäßigt
+Sardinen,"Sadinen gebraten aus der Pfanne mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,201.0,,,,,ermäßigt
+Dorade,"Dorade mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,202.0,,,,,ermäßigt
+Victoriabarschfilet,"Victoriabarschfilet mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,203.0,,,,,ermäßigt
+Entenbrustfilet,mit Rotkohl und Kartoffeln,,,,Gerichte aus dem Backofen,300.0,,,,,ermäßigt
+gegrillte Peperoni mit Knoblauch ,gegrillte Peperoni mit Knoblauch ,,,,Warme Vorspeisen,27.0,,,,,ermäßigt
+Küche Divers,,,,,Küche Divers,5000.0,,,,,ermäßigt
+Cola 1L,,,,,Alkoholfreie Getränke,9562.0,,,,,Standard
+Fanta 1L,,,,,Alkoholfreie Getränke,9561.0,,,,,Standard
+Spezi 1L,,,,,Alkoholfreie Getränke,9560.0,,,,,Standard
+Sprite 1L,,,,,Alkoholfreie Getränke,9559.0,,,,,Standard
+Cola Light 1L,,,,,Alkoholfreie Getränke,9558.0,,,,,Standard
+Heineken ,,,,,Biere Ausser Haus,9564.0,,,,,Standard
+Bitburger,,,,,Biere Ausser Haus,9563.0,,,,,Standard
+Lammhaxe mit Kritharaki,mit gemischtem Salat und Brot,,,,Lammhaxe,106.0,,,,,ermäßigt
+Lammhaxe mit Spaghetti	,mit gemischtem Salat und Brot,,,,Lammhaxe,107.0,,,,,ermäßigt
+Lammhaxe mit dicken Bohnen,mit gemischtem Salat und Brot,,,,Lammhaxe,108.0,,,,,ermäßigt
+Lammhaxe mit grünen Bohnen,mit gemischtem Salat und Brot,,,,Lammhaxe,109.0,,,,,ermäßigt
+Lammhaxe mit Stifado,mit gemischtem Salat und Brot,,,,Lammhaxe,110.0,,,,,ermäßigt
+Lammhaxe mit Kartoffeln,mit gemischtem Salat und Brot,,,,Lammhaxe,111.0,,,,,ermäßigt
+Gerolsteiner 0.25l,,,,,Alkoholfreie Getränke In,9580.0,,,,,Standard
+Gerolsteiner 0.75l,,,,,Alkoholfreie Getränke In,9581.0,,,,,Standard
+Gerolsteiner Still 0.75l,,,,,Alkoholfreie Getränke In,9583.0,,,,,Standard
+Gerolsteiner Medium 0.75l,,,,,Alkoholfreie Getränke In,9582.0,,,,,Standard
+Gerolsteiner still 0.25l,,,,,Alkoholfreie Getränke In,9584.0,,,,,Standard
+"Cola 0,2l",,,,,Alkoholfreie Getränke In,9585.0,,,,,Standard
+"Cola ohne Zucker 0,2l",,,,,Alkoholfreie Getränke In,9586.0,,,,,Standard
+"Bluna Zitronen Limonade 0,2l",,,,,Alkoholfreie Getränke In,9587.0,,,,,Standard
+"Bluna Orangen Limonade 0,2l",,,,,Alkoholfreie Getränke In,9588.0,,,,,Standard
+"Spezi 0,2l",,,,,Alkoholfreie Getränke In,9589.0,,,,,Standard
+"Orangensaft 0,2l",,,,,Alkoholfreie Getränke In,9590.0,,,,,Standard
+"Apfelsaft  0,2l",,,,,Alkoholfreie Getränke In,9591.0,,,,,Standard
+"Kiba 0,2l",,,,,Alkoholfreie Getränke In,9576.0,,,,,Standard
+"Kirschsaft 0,2l",,,,,Alkoholfreie Getränke In,9575.0,,,,,Standard
+"Bananensaft 0,2l",,,,,Alkoholfreie Getränke In,9572.0,,,,,Standard
+"Tonic Water 0,2l",,,,,Alkoholfreie Getränke In,9571.0,,,,,Standard
+"Ginger Ale  0,2l",,,,,Alkoholfreie Getränke In,9570.0,,,,,Standard
+"Bitter Lemon 0,2l",,,,,Alkoholfreie Getränke In,9569.0,,,,,Standard
+"Apfelschorle 0,2l",,,,,Alkoholfreie Getränke In,9568.0,,,,,Standard
+"Rhabarberschorle 0,3l",,,,,Alkoholfreie Getränke In,9567.0,,,,,Standard
+"Johannisbeerschorle 0,3l",,,,,Alkoholfreie Getränke In,9557.0,,,,,Standard
+"Cola 0,4l",,,,,Alkoholfreie Getränke In,9556.0,,,,,Standard
+"Cola ohne Zucker 0,4l",,,,,Alkoholfreie Getränke In,9555.0,,,,,Standard
+"Bluna Zitronen Limonade 0,4l",,,,,Alkoholfreie Getränke In,9554.0,,,,,Standard
+"Bluna Orangen Limonade 0,4l",,,,,Alkoholfreie Getränke In,9553.0,,,,,Standard
+"Spezi 0,4l",,,,,Alkoholfreie Getränke In,9502.0,,,,,Standard
+"Orangensaft 0,4l",,,,,Alkoholfreie Getränke In,9551.0,,,,,Standard
+"Apfelsaft 0,4l",,,,,Alkoholfreie Getränke In,9639.0,,,,,Standard
+"Kiba 0,4l",,,,,Alkoholfreie Getränke In,9638.0,,,,,Standard
+"Kirschsaft 0,4l",,,,,Alkoholfreie Getränke In,9637.0,,,,,Standard
+"Bananensaft 0,4l",,,,,Alkoholfreie Getränke In,9636.0,,,,,Standard
+"Tonic Water 0,4l",,,,,Alkoholfreie Getränke In,9635.0,,,,,Standard
+"Ginger Ale 0,4l",,,,,Alkoholfreie Getränke In,9634.0,,,,,Standard
+"Bitter Lemon 0,4l",,,,,Alkoholfreie Getränke In,9633.0,,,,,Standard
+"Apfelschorle 0,4l",,,,,Alkoholfreie Getränke In,9632.0,,,,,Standard
+Griechischer Mocca,,,,,Heiße Getränke,9622.0,,,,,Standard
+Kaffee,,,,,Heiße Getränke,9607.0,,,,,Standard
+Cappuccino,,,,,Heiße Getränke,9606.0,,,,,Standard
+Latte Macchiato,,,,,Heiße Getränke,9605.0,,,,,Standard
+Schokolade,,,,,Heiße Getränke,9604.0,,,,,Standard
+Tee,,,,,Heiße Getränke,9603.0,,,,,Standard
+Grog,,,,,Heiße Getränke,9602.0,,,,,Standard
+Glühwein,,,,,Heiße Getränke,9601.0,,,,,Standard
+"Bitburger Pils 0,3l",,,,,Biere vom Fass,950.0,,,,,Standard
+"Bitburger Pils 0,4l",,,,,Biere vom Fass,951.0,,,,,Standard
+"Herrbräu Hefeweizen 0,3l",,,,,Biere vom Fass,952.0,,,,,Standard
+"Herrbräu Hefeweizen 0,5l",,,,,Biere vom Fass,953.0,,,,,Standard
+"Alsterwasser 0,3l",,,,,Biere vom Fass,9682.0,,,,,Standard
+"Alsterwasser 0,4l",,,,,Biere vom Fass,9550.0,,,,,Standard
+"Köstritzer Schwarzbier 0,3l",,,,,Biere vom Fass,9549.0,,,,,Standard
+"Köstritzer Schwarzbier 0,5l",,,,,Biere vom Fass,9548.0,,,,,Standard
+Herrnbräu Hefeweizen Dunkel,,,,,Flaschenbiere,9547.0,,,,,Standard
+Herrnbräu Kristallweizen,,,,,Flaschenbiere,9546.0,,,,,Standard
+Herrnbräu Alkoholfreies Weizen,,,,,Flaschenbiere,9545.0,,,,,Standard
+Alkoholfreies Bitburger Pils,,,,,Flaschenbiere,9544.0,,,,,Standard
+Kandi Malzbier,,,,,Flaschenbiere,9542.0,,,,,Standard
+Mythos,,,,,Flaschenbiere,9541.0,,,,,Standard
+Ouzo mit Feige,,,,,Aperetifs,9539.0,,,,,Standard
+Sherry Medium,,,,,Aperetifs,9538.0,,,,,Standard
+Sherry Dry,,,,,Aperetifs,9537.0,,,,,Standard
+Campari Orange,,,,,Aperetifs,9536.0,,,,,Standard
+Campari Soda,,,,,Aperetifs,9535.0,,,,,Standard
+Martini Bianco,,,,,Aperetifs,9534.0,,,,,Standard
+Martini Rosso,,,,,Aperetifs,9533.0,,,,,Standard
+Masticha,,,,,Aperetifs,9532.0,,,,,Standard
+Ouzo,,,,,Spirituosen,9531.0,,,,,Standard
+Zipuro,,,,,Spirituosen,9530.0,,,,,Standard
+Korn,,,,,Spirituosen,9528.0,,,,,Standard
+Metaxa 5 Sterne,,,,,Spirituosen,9527.0,,,,,Standard
+Metaxa 7 Sterne,,,,,Spirituosen,9526.0,,,,,Standard
+Metaxa Old,,,,,Spirituosen,9525.0,,,,,Standard
+Rum,,,,,Spirituosen,9524.0,,,,,Standard
+Fernet Branca,,,,,Spirituosen,9519.0,,,,,Standard
+Aquavit,,,,,Spirituosen,9520.0,,,,,Standard
+Bacardi,,,,,Spirituosen,9518.0,,,,,Standard
+Ramazotti,,,,,Spirituosen,9517.0,,,,,Standard
+Jubi,,,,,Spirituosen,9516.0,,,,,Standard
+Gin,,,,,Spirituosen,9515.0,,,,,Standard
+Whiskey,,,,,Spirituosen,9514.0,,,,,Standard
+Baileys,,,,,Spirituosen,9513.0,,,,,Standard
+Amaretto,,,,,Spirituosen,9512.0,,,,,Standard
+Wodka mit Feige,,,,,Spirituosen,9511.0,,,,,Standard
+"Ouzo Pilavas 0,2l",,,,,Spirituosen,9510.0,,,,,Standard
+Imiglikos Weiß 0.25l,,,,,Offene Weißweine,700.0,,,,,Standard
+Retsina 0.25l,,,,,Offene Weißweine,701.0,,,,,Standard
+Samos 0.25l,,,,,Offene Weißweine,702.0,,,,,Standard
+"Landwein 0,25l",,,,,Offene Weißweine,703.0,,,,,Standard
+"Weinschorle 0,25l",,,,,Offene Weißweine,704.0,,,,,Standard
+Imiglikos Rot 0.25l,,,,,Offene Rotweine,705.0,,,,,Standard
+Naoussa 0.25l,,,,,Offene Rotweine,706.0,,,,,Standard
+Mavrodaphne 0.25l,,,,,Offene Rotweine,707.0,,,,,Standard
+"Landwein Rot 0,25l",,,,,Offene Rotweine,708.0,,,,,Standard
+"Rose 0,25l",,,,,Offene Roseweine,710.0,,,,,Standard
+Souvlaki Kinder,,,,,Kinder Teller,43.0,,,,,Standard
+Bifteki Kinder,,,,,Kinder Teller,44.0,,,,,Standard
+Zuzuki Kinder,,,,,Kinder Teller,45.0,,,,,Standard
+Schnitzel Kinder,,,,,Kinder Teller,46.0,,,,,Standard
+Gyros Senioren,,,,,Senioren Teller,84.0,,,,,ermäßigt
+Souvlaki Senioren,,,,,Senioren Teller,85.0,,,,,ermäßigt
+Bifteki Senioren,,,,,Senioren Teller,86.0,,,,,ermäßigt
+Limonade Zitrone Groß,,,,,Limonade,1200.0,,,,,Standard
+Limonade Pfirsich Gross,,,,,Limonade,1201.0,,,,,Standard
+Limonade Erdbeer Zitrone Gross,,,,,Limonade,1202.0,,,,,Standard
+Limonade Apfel Granatapfel Gross,,,,,Limonade,1203.0,,,,,Standard
+Limonade Zitrone Klein,,,,,Limonade,1204.0,,,,,Standard
+ Limonade Pfirsich Klein,,,,,Limonade,715.0,,,,,Standard
+Limonade Erdbeer Zitrone Klein,,,,,Limonade,1206.0,,,,,Standard
+Limonade Apfel Granatapfel Klein,,,,,Limonade,1207.0,,,,,Standard
+Kalamares in Tomatensauce,"in pikanter Tomaten-Knoblauch-Sauce mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,92.0,,,,,ermäßigt
+"Sprite 0,2l",,,,,Alkoholfreie Getränke In,9577.0,,,,,Standard
+"Sprite 0,4l",,,,,Alkoholfreie Getränke In,9578.0,,,,,Standard
+ Kalamares mit Gyros,"mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,94.0,,,,,ermäßigt
+Fischplatte,"Kalamares, Garnelen, Rotbarbenfilet mit Kartoffeln, gemischtem Salat, Zitronen-Knoblauch-Sauce und Brot",,,,Fisch,91.0,,,,,ermäßigt
+Broccoli in Knoblauch-Sahnesauce ,mit Käse überbacken,,,,Beilagen,135.0,,,,,Standard
+Zwiebeln mit Champignons,gebraten,,,,Beilagen,136.0,,,,,Standard
+Spinat,in Knoblauch-Sahnesauce mit Käse überbacken,,,,Beilagen,137.0,,,,,Standard
+Kritharaki mit Spinat,"griechische Nudeln mit Spinat, gemischtem Salat und Brot",,,,Nudeln,37.0,,,,,ermäßigt
+Eis eine Kugel,,,,,Dessert,10005.0,,,,,ermäßigt
+Gemischtes Eis ,"(Vanille, Schoko, Erdbeer)",,,,Dessert,10006.0,,,,,ermäßigt
+Gemischtes Eis mit Sahne,"(Vanille, Schoko, Erdbeer)",,,,Dessert,10007.0,,,,,ermäßigt
+Vanilleeis mit heißen Kirschen,,,,,Dessert,10008.0,,,,,ermäßigt
+Vanilleeis mit heißen Kirschen und Sahne,,,,,Dessert,10009.0,,,,,ermäßigt
+Vanilleeis mit heißer Schokolade,,,,,Dessert,10010.0,,,,,ermäßigt
+Vanilleeis mit heißer Schokolade und Sahne,,,,,Dessert,10011.0,,,,,ermäßigt
+Mostra Trocken Rotwein,500 ml Trocken Rotwein,,,,Flaschenweine,1500.0,,,,,Standard
+Mostra Trocken Weißwein,500 ml Trocken Weißwein,,,,Flaschenweine,1501.0,,,,,Standard
+Mostra Lieblich Rosewein,500 ml Lieblich Rosewein,,,,Flaschenweine,1502.0,,,,,Standard
+Mostra Trocken Rosewein,500 ml Trocken Rosewein,,,,Flaschenweine,1503.0,,,,,Standard
+Imiglikos lieblich Weißwein,"0,75 l Weißwein Imiglikos / lieblich",,,,Flaschenweine,1504.0,,,,,Standard
+Kouros trocken,"0,75 l Weißwein Kouros / trocken",,,,Flaschenweine,1505.0,,,,,Standard
+Makedonikos Tsantali Halbtrocken,"0,75 l Weißwein Makedonikos Tsantali / halbtrocken",,,,Flaschenweine,1506.0,,,,,Standard
+Retsina geharzt Weißwein,"0,75 l Weißwein Retsina geharzt",,,,Flaschenweine,1507.0,,,,,Standard
+Samos edelsüß Weißwein,"0,75 l Weißwein Samos / Edelsüß",,,,Flaschenweine,1508.0,,,,,Standard
+Ateller Lagorthi-Riesling trocken Weißwein,"0,75 l Weißwein Ateller Lagorthi-Riesling / trocken",,,,Flaschenweine,1509.0,,,,,Standard
+ Joghurt Himbeer,,,,,Dessert,100012.0,,,,,ermäßigt
+Chateau Nico Lazaridi,"0,75 l Weißwein Ateller Lagorthi-Riesling / trocken",,,,Flaschenweine,1510.0,,,,,Standard
+Espresso doppelt,,,,,Heiße Getränke,9681.0,,,,,Standard
+"Wasser 0,4",,,,,Alkoholfreie Getränke In,9579.0,,,,,Standard
+"Retsina Malamatina 0,5",,,,,Flaschenweine,9522.0,,,,,Standard
+Espresso,,,,,Heiße Getränke,9610.0,,,,,Standard
+Glas Wein,,,,,Offene Weißweine,709.0,,,,,Standard
+Sardinen Vorspeise,,,,,Fisch,841215.0,,,,,ermäßigt
+Platte eine Person mehr,,,,,Platten,9608.0,,,,,steuerfrei
+Mittags Bifteki,,,,,Mittagstisch,3001.0,,,,,ermäßigt
+Mittags Pastitio,,,,,Mittagstisch,3002.0,,,,,ermäßigt
+Mittags Kalamares Tomaten,,,,,Mittagstisch,3003.0,,,,,ermäßigt
+Mittags Gyros  in Metaxa,,,,,Mittagstisch,4001.0,,,,,ermäßigt
+Mittags Garnelen ,Mittags Garnelen ,,,,Mittagstisch,4002.0,,,,,ermäßigt
+Mittags Zuzuki,,,,,Mittagstisch,4003.0,,,,,ermäßigt
+Mittags Gyros,,,,,Mittagstisch,5001.0,,,,,ermäßigt
+Mittags Schnitzel,,,,,Mittagstisch,5002.0,,,,,ermäßigt
+Mittags Scholle,,,,,Mittagstisch,5003.0,,,,,ermäßigt
+Gyros-Gemüse Pfanne,,,,,Mittagstisch,6001.0,,,,,ermäßigt
+Mittags Schweinesteak,"mit Tzatziki, Reis und gemischtem Salat",,,,Mittagstisch,6002.0,,,,,ermäßigt
+Mittags Kalamares,"in Tomatensauce, mit Butterreis und gemischtem Salat",,,,Mittagstisch,6003.0,,,,,ermäßigt
+Mittags Putensteak,"mit Tzatziki, Reis und gemischtem Salat",,,,Mittagstisch,6004.0,,,,,ermäßigt
+Gyros,,,,,,0.52,,,,,Standard
+Pommes,,,,,Beilagen,,,,,,Standard
+Bohnensalat,,,,,Salate,,,,,,ermäßigt
+Kartoffelscheiben,,,,,Beilagen,8998.0,,,,,Standard
+Reis,,,,,,8997.0,,,,,ermäßigt
+gebratene zwiebeln ,,,,,,8996.0,,,,,ermäßigt
+Kritharaki,Kritharaki,,,,Topping,6804.0,,,,,ermäßigt
+Gyros Kinder,,,,,Kinder Teller,42.0,,,,,Standard
+Kartoffeln,,,,,,8995.0,,,,,ermäßigt
+Elfbar,,,,,Aperetifs,962222.0,,,,,Standard
+kein Salat,,,,,,9096.0,,,,,Standard
+Ouzo aufs Haus,,,,,Aperetifs,5251315.0,,,,,Standard
+Brot ,,,,,Küche Divers,254354345.0,,,,,ermäßigt
+Lammhaxe mit Bamies,,,,,Lammhaxe,113.0,,,,,ermäßigt
+Mykonos Teller,"Gyros, 2 Zuzuki, Reis Zaziki und gemischter Salat",,,,Gemischte Grillteller,70.0,,,,,ermäßigt
+Gin Tonic,"- 50 ml Gin
+- 150 ml Tonic Water
+- Eiswürfel
+- 1 Limettenscheibe zur Garnierung",,,,Aperetifs,6901.0,,,,,Standard
+Spaghetti,Spaghetti,,,,Topping,6801.0,,,,,Standard
+Broccoli,Broccoli,,,,Topping,6802.0,,,,,Standard
+Spinat,Spinat,,,,Topping,6803.0,,,,,Standard
+Weiß,,,,,,8000.0,,,,,Standard
+Rot,,,,,,8001.0,,,,,Standard
+Rose,,,,,,8002.0,,,,,Standard
